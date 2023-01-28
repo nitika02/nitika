@@ -45,7 +45,7 @@ Full Stack Developer with hands on experience in building React Apps. Works effi
               </div>
             )
           })}
-          <motion.a href={resume} download=""
+          <motion.a href="https://drive.google.com/file/d/1_OexZpzijR0y7b-hqt8dnpgNNllryYfS/view?usp=sharing" target="_blank" rel="opener" download=""
             whileHover={{ scale: 1.1 }}
             transition={{ duration: 0.3 }}
           >
