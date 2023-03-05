@@ -13,6 +13,7 @@ import work4 from "./assets/work4.png";
 import work5 from "./assets/work5.png";
 import work7 from "./assets/work7.png";
 import work8 from "./assets/work8.png";
+import work9 from "./assets/work9.png";
 
 export const navLinks = ["home", "about", "skills", "portfolio", "contact"]
 
@@ -179,6 +180,17 @@ export const workImages = [
     nhref : "https://io-dineout.netlify.app/",
     tech: "React, React-Redux, Chakra-UI",
     desc : "This is a clone of Dineout website where user can signup/login and search for a restaurant and book a restaurant."
+  },
+  {
+    id: 8,
+    img: work9,
+    name: "project 8",
+    title: "Chat App",
+    category: 'React',
+    ghref : "https://github.com/nitika02/Chat-App",
+    nhref : "https://fakesapp.netlify.app/",
+    tech: "MERN, Styled-components, Socket.io",
+    desc : "This is a Chat application built using MERN Stack for real time chat"
   }
   
 ]
