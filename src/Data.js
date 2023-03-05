@@ -162,12 +162,12 @@ export const workImages = [
     id: 6,
     img: work7,
     name: "project 6",
-    title: "Disney+ Clone",
+    title: "Flipkart Clone",
     category: 'React',
-    ghref : "https://github.com/nitika02/disney-clone",
-    nhref : "https://disneyplus-clone-79788.web.app/",
-    tech: "React, Firebase, Styled-Components",
-    desc : "This is a clone of Disney+ website. The login authorization is done by Firebase and also it acts as a database."
+    ghref : "https://github.com/nitika02/Flipkart-Clone",
+    nhref : "https://flipkart-clone02.netlify.app/",
+    tech: "MERN, Material UI, Redux",
+    desc : "This is a clone of famous e-commerce website Flipkart built using MERN Stack in integration with Stripe Payment gateway."
   },
   {
     id: 7,
